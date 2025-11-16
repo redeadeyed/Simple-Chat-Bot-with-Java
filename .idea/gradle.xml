@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot with Java/task" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Calculating square, cube and fourth power of a number" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Sum, multiplication, and division of two integers" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Boolean value" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Checking if a number is even or odd" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Declaring boolean variables" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Evaluating the conjunction of two booleans" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Logical operations" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Night guard's digital watchdog dilemma" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Encoding table" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Find the next Unicode character" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Incrementing and decrementing a character" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Special characters" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Subtraction mystery" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Alternative code" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Forms of comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Javadoc comment" />
+            <option value="$PROJECT_DIR$/Topics/Comments/The forgotten comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Three numbers" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Uncomment a line" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Uncommented comments" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Boys in a sport class" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Check the sum" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Check the value" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Comparing two integers  greater, less or equal" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Job offer" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/The result is true" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/A correct example" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Check a number is positive" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Define the conditions" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Determine the output" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Interval" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/The army of units" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Triangle" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Assertion" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Best practices" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Catching and handling division errors in code" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Debugging an Arithmetic Exception with Logging" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Development approach" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Different techniques" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Find the error" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Handling and logging null pointer exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Implementing error handling for division by zero operation" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Java Debugging  Truths   Techniques" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Log events" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Proper tools" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Find the correct statement" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Fix compile-time errors" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Fix the program" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Print the age" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Select the statement" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Spot the Errors  Reading and Summing Integers" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Watch Out for Potential Errors" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/What's wrong" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Difference between two doubles" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Distance" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Existing floating-point types" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Explain the result" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Exponential expression" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Find X" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Spherical sleuthing with Math's magic" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/What is the value" />
+            <option value="$PROJECT_DIR$/Topics/For loop/Numbers divisible by six" />
+            <option value="$PROJECT_DIR$/Topics/For loop/The sum of integers from a to b" />
+            <option value="$PROJECT_DIR$/Topics/For loop/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Decrement all" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Increment, decrement, then double n" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/What is the result" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Big numbers" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Computing the remainder and its triple" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Integer operations" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Match operations and their meanings" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Reading integer numbers" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Tens digit" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/Complete a program" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/Determine whether the name is valid" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/From cryptic to crystal  Weather's facelift" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/Initializing inventory count and item price variables" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/Name That! A Peek into Best Naming Picks" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/Perform calculator operations on two fixed integers" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/Sunny skies, cloudy code" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/The best name for a variable" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/Valid and invalid names" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Check if a given number is equal to 10" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Cracking the discount code conundrum" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Double ternary operator" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Find the maximum of two numbers" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Paycheck face-off  Who's the breadwinner" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Theory" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Write a ternary operator" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Calculating arithmetic operations" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Completing a greeting message code" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Digits from 0 to 9 backwards" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Déjà vu" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Find a way" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/We need to learn Java" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Brew-tiful order, coming right up" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Guest list of a hotel" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Print strings in the reverse order" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Printing strings in the same order" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Understanding System.in" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Assignments" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Forge your digital destiny" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Invalid declaration of variables" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Type matching" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Complete the code for a greeting and year display" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Complete the code to print different data types" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Find a word that is not a keyword" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Hello, Java" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Keywords" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Match terms and their definitions" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/The first program" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

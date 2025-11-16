@@ -1,0 +1,16 @@
+content:
+  - Theory
+  - Java Debugging  Truths   Techniques
+  - Implementing error handling for division by zero operation
+  - Handling and logging null pointer exceptions
+  - Development approach
+  - Find the error
+  - Proper tools
+  - Catching and handling division errors in code
+  - Debugging an Arithmetic Exception with Logging
+  - Log events
+  - Best practices
+  - Assertion
+  - Debug println
+  - Checking the argument
+  - Different techniques
